@@ -45,6 +45,11 @@ public class SearchAlgorithms {
 	  }
 		return -1;
 	}
+	
+	public static int recursiveSearch(int[]test,int target)
+	{
+		
+	}
 
 
 }
